@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+    <head> 
+    <link href="style.css" rel="stylesheet">
+    <meta charset= "UTF-8">
+    <meta name= "viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title> Personal Technology Interest Page </title>
+
+    </head>
+    
+    <body>
+    <div id= "body-box">
+        <header>
+            <img src="https://learningcomponents.org/img/logo/lc_wide_lg_wt.png"/>
+        </header>
+        <main>
+            
+            <div id "blurb-box">
+            <h1> Courtnee Smith</h1>
+            <img src= "https://i.imgsafe.org/f1/f16c2baba6.jpeg"/>
+                <div id "date-stuffs">
+                <time
+    datetime= "2019-09-10"> 09/10/2019</time>
+                </div>
+            <div id "why">
+            <h2> I chose to learn Web Development</h2>
+            <ul>
+                <li> It's an amazing feeling after you fix a coding issue and get the site looking great again. </li>
+                <li> I love using design items like photoshop to design logos and stuff. This allows me to share my designs easier.</li>
+                <li> I love computers!</li>
+                <li> I love designing new websites and way to ahre information with each other. </li>
+                <li> I love solving problems</li>
+            </ul>   
+            </div>
+        </div>
+        <div id "boxes">
+
+        <section id= "tech boxes">
+            <figure>
+                <img src= "https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+                <figcaption> I love figuring out new software and using it well. </figcaption>
+
+    
+                <img src= "https://cdn.worldvectorlogo.com/logos/graphql.svg">
+                <figcaption> I love editing the virtual world wwith photoshop </figcaption>
+            
+
+            
+                <img src= "https://cdn.worldvectorlogo.com/logos/html-5.svg">
+                <figcaption> I am getting better in HTML as well. </figcaption>
+            </figure>
+
+
+        </section>
+        </div>
+        
+        <div id "react">
+            <style>
+            h3{ color: blue;}
+            </style>
+                <h3> I am most excited to learn...</h3>
+        </div>
+
+        <div id "reasons">
+
+            <style>
+            h4{ color: blue;}
+            p{ color: blue;}
+            </style>
+            <h4> HTML </h4>
+            <p>I have had several times where knowing a bit more html tha I already knew was a good idea. I really look forward to getting better at coding in general. I also 
+            can't wait to be able to use code to make designing eaiser on myself. </p>
+
+        
+        </div>
+        </main>
+
+
+    </div>
+    <div id "footer">
+        <footer style=" color: white;">
+            <p> For Educational Purposes Only</p>
+        </footer>
+
+    </div>
+    </body>
+
+</html>

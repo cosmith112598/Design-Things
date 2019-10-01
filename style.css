@@ -1,0 +1,107 @@
+body {
+    background-color: #0f2440;
+}
+
+#box {
+    width: 960px;
+    margin: 0px auto;
+}
+
+header{ 
+    display: flex;
+    justify-content: center;
+}
+
+ 
+#blurb {
+    display: flex;
+    background-color: #545345;
+    margin-left: 20px;
+}
+
+footer {
+    color: #ffffff;
+    font-size: 1.5em;
+    justify-content: center;
+}
+
+#blurb-box {
+    margin-left: 20px;
+    flex:1;
+    background-color: #545345;
+    list-style-position: inside;
+    color: aliceblue;
+}
+#date-stuffs {
+    display: flex;
+    justify-content: center;
+    color: #c4f0f3;
+    padding-bottom: 12px;
+    font-size: 1.75em;
+}
+
+#date-stuffs p{
+    margin: 0px;
+}
+
+#why {
+    color: #c4f0ff;
+    background-color: #35342e;
+    padding: 10px;
+}
+#why ul{
+    list-style-position: inside;
+    padding: 0px;
+}
+
+#boxes {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+figure {
+    margin: 0px;
+    display: flex;
+    flex-flow: column;
+    max-width: 180px;
+}
+
+figure img{
+    max-height: 185px;
+    max-width: 180px;
+}
+
+figcaption {
+    color: #ffffff;
+    text-align: center;
+    background: #000000;
+    position: relative;
+    bottom: 20px;
+    padding: 6px;
+}
+
+#reasons div{
+    background-color: #545345;
+    padding: 10px;
+    justify-content: center;
+
+}
+
+#react h3{
+    font-size: 2em;
+}
+#reasons h4 {
+    font-size: 1.5em;
+    margin: 0px;
+    background-color: #545345;
+    justify-content: center;
+}
+#reasons p {
+    color: #73cdeb;
+    font-size: 18px;
+    background-color: #545345;
+    Margin: 0px;
+    justify-content: center;
+
+}
